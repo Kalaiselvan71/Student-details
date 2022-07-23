@@ -23,6 +23,8 @@ public static void main(String[] args) {
 	StudtMarks m = new StudtMarks();
 	m.marks();
 	
+	System.out.println("kalai checkout");
 	System.out.println("chnge on selvan");
+
 }
 }
